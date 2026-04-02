@@ -1,0 +1,2 @@
+# periacoin
+periacoin
