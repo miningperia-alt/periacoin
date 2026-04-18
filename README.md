@@ -3,10 +3,10 @@ A free cloud-based crypto mining platform built on **BNB Smart Chain (BSC)**.
 
 ## Technology Stack
 - **Blockchain**: BNB Smart Chain (BEP-20)
-- **Smart Contracts**: Solidity 0.8.31, OpenZeppelin
-- **Frontend**: PHP 8+ / MySQL
-- **Mobile**: Android (Google Play) / iOS (App Store)
-- **Security**: Firebase Auth, JWT, Cloudflare, VPN/proxy blocking
+- **Smart Contracts**: Solidity 0.8.31, OpenZeppelin Security Standards
+- **Infrastructure**: High-Performance Cloud Architecture & Distributed Systems
+- **Mobile**: Cross-Platform Mobile Application (Capacitor Framework)
+- **Security**: Firebase Auth, JWT, Cloudflare Protection, VPN/Proxy Detection
 
 ## Supported Networks
 - **BNB Smart Chain Mainnet** (Chain ID: 56)
